@@ -1,0 +1,45 @@
+<div id="header"></div>
+<div class="left"></div>
+<div class="stuff">
+  <br><br>
+  <h1>Resume</h1>
+  <h2>Eric Atuahene</h2>
+  <hr />
+  <br>
+  <p class="head">Interests</p>
+  <ul>
+    <li>Drawing</li>
+    <li>Writing</li>
+    <li>Design</li>
+    <li>Music</li>
+  </ul>
+  <p class="head">Skills</p>
+  <ul>
+    <li>Web Design with HTML & CSS</li>
+  </ul>
+  <p class="head">Education</p>
+  <ul>
+    <a href="https://www.verrado.com/verrado-high-school/">
+      <li>Verrado High School</li>
+    </a>
+    <!--Link-->
+    <a href="https://www.estrellamountain.edu/">
+      <li>Estrella Mountain Community College</li>
+    </a>
+    <lWest-MEC</li>
+  </ul>
+  <p class="head">Experience</p>
+  <ul>
+    <li>Harkins Theatres Employee</li>
+    <li>Bartender</li>
+  </ul>
+  <p class="head">Extracurriculars</p>
+  <ul>
+    <li>Nintendo Club</li>
+    <li>Book Club</li>
+    <li>Pharmacy Technician</li>
+  </ul>
+</div>
+<div class="right"></div>
+<div id="footer">
+  <h2 id="name">Eric Atuahene</h2></div>
