@@ -1,0 +1,168 @@
+<!doctuype html>
+<html>
+    <head>
+  <link rel="stylesheet" href="style.css">
+</head> 
+<head>
+  <title> My Resume </title>
+  <style>
+    th, td {
+      border: 1px solid black;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+
+<body>
+<img src='Eric.jpeg'width="400" height="200">
+                          
+<h1> Eric Atuahene</h1>
+<a href=''><address> 3842 N 297th Ave Buckeye,AZ </address></a>
+<a href=''><phone> 623-297-6165 </phone></a>
+
+       <div class="outer">
+        <details open>
+            <summary>Objective?</summary>
+            <div class="faq-content">
+                <p>Get a web programming job.</p>
+            </div>
+        </details>
+
+        <details>
+            <summary>Education</summary>
+            <div class="faq-content">
+              <table style='border: 1px solid black;border-collapse: collapse'>
+		<thead>
+			<tr>
+				<th>Degree/Diploma</th>
+				<th>School</th>
+				<th>Year</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Bachelor's Degree</td>
+				<td>ASU</td>
+				<td>2022</td>
+			</tr>
+			<tr>
+				<td>Diploma</td>
+				<td>Verrado High School</td>
+				<td>2018</td>
+			</tr>
+			<tr>
+				<td>Certificate</td>
+				<td>West-Mec</td>
+				<td>2018</td>
+			</tr>
+		</tbody>
+	</table>
+            </div>
+        </details>
+        <details>
+            <summary>Experience</summary>
+            <div class="faq-content">
+         <ol>
+<li>
+<strong> Team Member </strong> 
+I was executing all tasks assigned by the team leader or manager diligently, on schedule, and to the highest standard. I also was working with team members to achieve daily, weekly, and monthly targets.Also, I was participating in meetings and voicing concerns as well as suggestions for improvement. Answering or escalating concerns and queries from clients or other stakeholders.
+Completing a range of administrative tasks.
+
+
+</li>
+<li>
+
+<strong>Team Leader</strong> 
+Team Leaders monitor team members’ participation to ensure everyone has proper training and provide any additional training if needed. They can have a wide variety of responsibilities outside of their mentorship role.
+
+</li>
+<li>
+
+<strong> Bartender </strong> 
+Bartenders, or Mixologists, mix and serve alcoholic beverages based on customer requests. Their duties include verifying the identification and age of customers, preparing and serving alcoholic beverages, accepting payment from customers, cleaning glasses and bar utensils and balancing cash receipts to record sales.
+
+
+
+
+</li>
+</ol>
+            </div>
+        </details>
+        <details>
+            <summary>Refrences</summary>
+            <div class="faq-content">
+       <ul>
+  <li>Andrea Atuahene</li>
+  <li>Esperanza Erickson</li>
+  <li>Eric Y. Atuahene</li>
+</ul>
+            </div>
+        </details>
+    </div>
+<h2> Objective </h2>
+<p> Get a web programming job. </p>
+    
+<h2> Education </h2>
+	<table style='border: 1px solid black;border-collapse: collapse'>
+		<thead>
+			<tr>
+				<th>Degree/Diploma</th>
+				<th>School</th>
+				<th>Year</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Bachelor's Degree</td>
+				<td>ASU</td>
+				<td>2022</td>
+			</tr>
+			<tr>
+				<td>Diploma</td>
+				<td>Verrado High School</td>
+				<td>2018</td>
+			</tr>
+			<tr>
+				<td>Certificate</td>
+				<td>West-Mec</td>
+				<td>2018</td>
+			</tr>
+		</tbody>
+	</table>
+
+<h2> Experience </h2>
+
+<ol>
+<li>
+<strong> Team Member </strong> 
+I was executing all tasks assigned by the team leader or manager diligently, on schedule, and to the highest standard. I also was working with team members to achieve daily, weekly, and monthly targets.Also, I was participating in meetings and voicing concerns as well as suggestions for improvement. Answering or escalating concerns and queries from clients or other stakeholders.
+Completing a range of administrative tasks.
+
+
+</li>
+<li>
+
+<strong>Team Leader</strong> 
+Team Leaders monitor team members’ participation to ensure everyone has proper training and provide any additional training if needed. They can have a wide variety of responsibilities outside of their mentorship role.
+
+</li>
+<li>
+
+<strong> Bartender </strong> 
+Bartenders, or Mixologists, mix and serve alcoholic beverages based on customer requests. Their duties include verifying the identification and age of customers, preparing and serving alcoholic beverages, accepting payment from customers, cleaning glasses and bar utensils and balancing cash receipts to record sales.
+
+
+
+
+</li>
+</ol>
+
+<h2> References </h2>
+<ul>
+  <li>Andrea Atuahene</li>
+  <li>Esperanza Erickson</li>
+  <li>Eric Y. Atuahene</li>
+</ul>
+
+</body>
+</html>
